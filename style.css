@@ -2,3 +2,15 @@ img {
     width: 150px;
     height: 300px;
 }
+
+h2{
+    text-decoration: underline;
+}
+
+.jobs{
+    font-weight: bold;
+} 
+
+.red{
+    color: red;
+}
